@@ -39,6 +39,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./Projeto-Algoritmo-de-Auditoria-de-Dados/) |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./Projeto-Algoritmo-de-Auditoria-de-Dados/) |
  
 ---
  
