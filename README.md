@@ -40,11 +40,6 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | :--- | :--- | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
  
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
 ---
  
 ### 🏗 Estrutura do Repositório
