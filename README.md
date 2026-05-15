@@ -36,21 +36,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Programação de Computadores
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** |Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados) |
-|  | |  |
-| **Traduzindo Lógica para Python** |Uma série de scripts desenvolvidos para exercitar a transição entre lógica de programação e a sintaxe da linguagem Python. Os algoritmos abordam problemas comuns do quotidiano, como gestão de vendas, análise climática, controlo académico e simulações financeiras. | [Ver Projeto](./projeto-traduzindo-logica-para-python) |
-|  | |  |
-| **Desenhando Emojis com Dados** |script de auditoria automatizada desenvolvido em Python para monitorizar transações comerciais e identificar comportamentos anómalos. O sistema atua como uma camada de segurança de dados, processando lotes de vendas para detetar discrepâncias estatísticas e garantir que os limites operacionais sejam respeitados. | [Ver Projeto](./projeto-desenhando-emojis-com-dados) |
-|  | |  |
-| **Engenharia de Contexto e Logica Fisica** | Um script que integra dois sistemas lógicos desenvolvidos em Python: uma ferramenta de análise de indicadores ambientais urbanos e um simulador de navegação espacial para protocolos de evacuação. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica) |
-|  | |  |
-| **Engenharia de Solucoes Logicas** |Um algoritmo de controle inteligente para semáforos urbanos, visando otimizar o fluxo de tráfego em "Cidades Inteligentes". O sistema ajusta dinamicamente o **Tempo de Espera (TE)** do sinal verde com base em sensores de presença de veículos, pedestres e no horário do dia. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas) |
-|  | |  |
-| **Sistema de Caixa e Cálculo de Troco** |Um sistema de automação para pontos de venda (PDV), focado no registo de produtos, processamento de pagamentos e cálculo otimizado de troco. O sistema utiliza uma lógica de decomposição de valores para determinar a menor quantidade de notas necessárias para o troco. | [Ver Projeto](./projeto-sistema-de-caixa-e-troco) |
-|  | |  |
-| **Sistema de Auditoria de Orçamentos Corporativos** |Um sistema de auditoria de orçamentos corporativos desenvolvido em Python, focado na análise de estruturas organizacionais hierárquicas representadas por dicionários aninhados. O sistema realiza o cálculo automatizado do orçamento total, permitindo a exclusão dinâmica de departamentos e a aplicação de conversão monetária em tempo de execução.| [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-coporativos) |
+
 ---
 ---
  
