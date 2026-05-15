@@ -36,7 +36,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 ### 📂 Portfólio de Projetos
  | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritmo de auditoria de dados** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto_algoritmo_de_auditoria_dados/) |
+| **Algoritmo de auditoria de dados** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto_algoritmo_de_auditoria_de_dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
