@@ -39,7 +39,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **algoritmo de auditoria de dados** |  Desenvolver um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.. | [Ver Projeto](./Projeto-Algoritmo-de-Auditoria-de-Dados/) |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./Projeto-Algoritmo-de-Auditoria-de-Dados/) |
+| **Criando emojis** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./Criando-emojis/) |
  
 ---
  
